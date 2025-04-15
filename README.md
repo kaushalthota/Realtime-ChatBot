@@ -16,7 +16,8 @@ A full-stack real-time chat application built using **MongoDB, Express.js, React
 
 ## 🖼️ Demo
 
-![Chat App Demo](https://user-images.githubusercontent.com/your-demo-image.gif) <!-- Replace this with your own gif or screenshot -->
+
+![Chat](https://github.com/user-attachments/assets/633be109-9e78-4e5f-8446-015627c20408)
 
 ---
 
